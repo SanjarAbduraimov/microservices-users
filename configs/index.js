@@ -1,5 +1,5 @@
 module.exports = {
   mongoose: {
-    url: "mongodb://localhost/demo",
+    url: "mongodb://localhost/microservices-users",
   },
 };
